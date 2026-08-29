@@ -5,7 +5,7 @@ I'm interested in the intersection of mathematics, statistics, and computing, wi
 
 I enjoy exploring machine learning, reinforcement learning, statistical modeling, and data analysis through both theoretical study and hands-on projects.
 
-## Topics of Interest:
+## Topics of Interest
 - Machine Learning
 - Reinforcement Learning
 - Statistical Modeling
