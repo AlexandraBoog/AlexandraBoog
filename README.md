@@ -1,5 +1,5 @@
-## Mathematics • Statistics • Data Science
-🎓 B.S. Double Major in Mathematics & Statistics and Data Science
+## Applied Mathematics • Statistics • Data Science
+🎓 B.S. Double Major in Applied Mathematics & Statistics and Data Science
 
 I'm interested in the intersection of mathematics, statistics, and computing, with a focus on using data and mathematical modeling to solve complex problems.
 
