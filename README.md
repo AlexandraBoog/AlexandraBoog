@@ -20,7 +20,7 @@ An overview of the history and foundations of Reinforcement Learning, covering t
 - Dynamic Programming
 - Monte Carlo Methods
 - Temporal Difference Learning
-//
+
 The project examines the benefits and limitations of each approach, including computational complexity, required prior knowledge, and the effects different methods can have on bias and variance.
 
 ### Steam Games Recommender
